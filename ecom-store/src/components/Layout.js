@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
     <div>
       <header>
         <nav>
-          <ul>
+          <ul class="nav-li">
             <li><Link to="/">Home</Link></li>
             <li><Link to="/contact">Contact Page</Link></li>
             <li><CartIcon /></li>
