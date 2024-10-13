@@ -30,6 +30,7 @@ The app dynamically fetches product data and allows users to interact with it us
 
 2. Install the dependencies:
 
+   ```bash
    npm install
 
 ### Running
